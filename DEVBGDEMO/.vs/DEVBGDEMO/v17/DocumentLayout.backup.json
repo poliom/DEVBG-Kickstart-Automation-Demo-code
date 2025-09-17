@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|c:\\users\\vidko videv\\source\\repos\\devbgdemo\\devbgdemo\\steps\\demosteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|solutionrelative:devbgdemo\\steps\\demosteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|c:\\users\\vidko videv\\source\\repos\\devbgdemo\\devbgdemo\\hooks\\uihooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|solutionrelative:devbgdemo\\hooks\\uihooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|c:\\users\\vidko videv\\source\\repos\\devbgdemo\\devbgdemo\\pages\\demopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|solutionrelative:devbgdemo\\pages\\demopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|c:\\users\\vidko videv\\source\\repos\\devbgdemo\\devbgdemo\\steps\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|solutionrelative:devbgdemo\\steps\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|c:\\users\\vidko videv\\source\\repos\\devbgdemo\\devbgdemo\\demotest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE93B2C2-5FB0-412B-93F9-B5E95D40D1E0}|DEVBGDEMO\\DEVBGDEMO.csproj|solutionrelative:devbgdemo\\demotest.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UiHooks.cs",
+              "DocumentMoniker": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Hooks\\UiHooks.cs",
+              "RelativeDocumentMoniker": "DEVBGDEMO\\Hooks\\UiHooks.cs",
+              "ToolTip": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Hooks\\UiHooks.cs",
+              "RelativeToolTip": "DEVBGDEMO\\Hooks\\UiHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:02:07.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoPage.cs",
+              "DocumentMoniker": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Pages\\DemoPage.cs",
+              "RelativeDocumentMoniker": "DEVBGDEMO\\Pages\\DemoPage.cs",
+              "ToolTip": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Pages\\DemoPage.cs",
+              "RelativeToolTip": "DEVBGDEMO\\Pages\\DemoPage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:46:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Steps\\DemoSteps.cs",
+              "RelativeDocumentMoniker": "DEVBGDEMO\\Steps\\DemoSteps.cs",
+              "ToolTip": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Steps\\DemoSteps.cs",
+              "RelativeToolTip": "DEVBGDEMO\\Steps\\DemoSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:35:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Steps\\LoginSteps.cs",
+              "RelativeDocumentMoniker": "DEVBGDEMO\\Steps\\LoginSteps.cs",
+              "ToolTip": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\Steps\\LoginSteps.cs",
+              "RelativeToolTip": "DEVBGDEMO\\Steps\\LoginSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:35:46.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoTest.feature",
+              "DocumentMoniker": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\DemoTest.feature",
+              "RelativeDocumentMoniker": "DEVBGDEMO\\DemoTest.feature",
+              "ToolTip": "C:\\Users\\Vidko Videv\\source\\repos\\DEVBGDEMO\\DEVBGDEMO\\DemoTest.feature",
+              "RelativeToolTip": "DEVBGDEMO\\DemoTest.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPddBPiNR1GMfx1/c36\u002Bx/29Ylf7NUrriiKIhhHYKgdMMgukXNEBSCFEInb3WKghYCIRBBOnjpoLOHBMsOQaBQQhc71EFrUwmUmdm1Nqddnd119tth9zc7s9hz\u002B36ez\u002Bf9PN8neFSdSwcFe7AdDwW3NF33VnWhwxdjDJ0CptIjOI496FrrLOFXTCpVz7dH1gHltAcn8D50J3mLK0uSkOhO8h40G5nzAyGcUKw0IWkBeA/HYO9ju/w4ccHezbu8M/aGy4fOC\u002BuzPhLjy9ljFVBOh/AJcsP5IfXledv6n/L8yLNeLUy4//CBKGaZXnzqm9Gg9YVyWkR5W/\u002BTLh38yve1H3z\u002B2xf\u002BXvrHcH7IX4tzZhbvZgBr19qpVL2RfWE/3LlfcebmWV0hp9aYVWvMulaf3hi2Nni/tht0QTOu\u002BHPhtmv1aY3mYss9PjBmct\u002BHDqcvtTT0awPchPHB7U4dmHRo6wtGurfYkn9coecJuZDzSnrQ6QOftQNua91gKt0h\u002Bj0IyY6BMfeW665MfO3k9Bm7N4/bPTju9StH9eX6VBo1aBC3KtXqqxsUqzfwZRT9MX/L4KYBISR\u002BnvvFT3evGu1NNeNKFoazSrX6\u002BgZQTkdxEc/AcH7I3NI9SUj0dfX6d3k\u002Bc84I8UXF2vVOAJxLRwSn8Rp6OnqrtYCiUvXbTOgEwFRhk\u002Bg54jG83dap4l2l6sU27RGArKYKh8X4He7gAuFjpcrMRtv/A8qFp4n7cFXSrHhzdqMD/AfXwLdp/4rZ5QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-09-17T17:34:49.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
